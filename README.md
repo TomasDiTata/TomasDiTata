@@ -23,12 +23,6 @@ Estudiante de Tecnicatura en Informática Aplicada (UTN) · Desarrollo web y an�
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasDiTata&show_icons=true&theme=default" alt="Estadísticas de GitHub de Tomás Di Tata" />
-</p>
-
 ---
 
 <p align="center">💼 ¡Abierto a nuevas oportunidades laborales! No dudes en contactarme.</p>
